@@ -1,4 +1,5 @@
 # lovely served by https://app-adstxt.dev/ -- free app-ads.txt hosting
+facebook.com, 3392301767698905, RESELLER, с3e20eee3f780d68
 facebook.com, 3176551765982437, RESELLER, с3e20eee3f780d68
 facebook.com, 974989986815380, RESELLER, с3e20eee3f780d68
 facebook.com, 892537435270854, RESELLER, с3e20eee3f780d68
